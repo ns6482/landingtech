@@ -30,7 +30,7 @@ My steps would be in the following order, will plan to take a TDD approach to th
  
 was getting stuck post 3-4 hours with my O(n) dictionary approach and this provided great inspiration
 * https://github.com/philipstanislaus/performant-array-to-tree
-* https://attacomsian.com/blog/reading-a-file-line-by-line-in-nodejs
+* https://typeofnan.dev/an-easy-way-to-build-a-tree-with-object-references/
 
 Some help with writing cli: 
 * https://stackabuse.com/reading-a-file-line-by-line-in-node-js/
